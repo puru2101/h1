@@ -27,7 +27,7 @@ final class hai extends A implements i1, i2 {
 	}
 
 	void show() {
-		System.out.println(a);
+	//	System.out.println(a);
 		System.out.println(b);
 	}
 
