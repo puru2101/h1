@@ -18,9 +18,9 @@ class jtc1 extends hai1 {
 
 	}
 
-	public jtc1() {
-System.out.println("constrcter jtc1()");
-	}
+//	public jtc1() {
+//System.out.println("constrcter jtc1()");
+//	}
 
 	public void show() {
 		System.out.println("show");
